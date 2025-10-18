@@ -26,6 +26,7 @@ Slide the squirrels horizontally and vertically around the gameboard:
 Java OOP
 
 ✨Features:
+
 🔸supports 3 levels and each level contains multiple boards with increasing difficulty
 
 🔸implements Ai serch algorithms to solve the game
